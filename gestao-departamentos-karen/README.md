@@ -81,19 +81,6 @@ Erros de negócio retornam mensagem objetiva (ex.: **409** para duplicidade de n
 - **H2 Database** (dev), **Springdoc OpenAPI** (Swagger)
 - **Angular 17** (standalone), **HttpClient**
 
----
-
-## 🗂️ Commits e branches
-Sugestão de mensagens: `feat:`, `fix:`, `refactor:`, `docs:`, `chore:`.  
-Crie uma branch `dev` para evoluções e abra **Pull Requests** para `main`.
-
----
-
-## 📸 Prints (opcionais)
-Cole aqui imagens do sistema em execução:
-- Lista de Departamentos
-- Formulário de Novo Departamento
-- Formulário de Novo Funcionário
 
 ---
 
