@@ -1,0 +1,7 @@
+package br.karen.gestao.config;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class SwaggerConfig {
+}
