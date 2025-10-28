@@ -100,6 +100,3 @@ Cole aqui imagens do sistema em execução:
 ## 👤 Autor
 **KAREN QUEZIA DE OLIVEIRA**
 
----
-
-> Dica: se este README não aparecer na capa do GitHub, garanta que ele esteja **na raiz** da branch padrão (`main`) com o nome **README.md**.
